@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97cb24b79b59f8b4885cb80772c1147a, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDatabase
+  character:
+  - CharacterName: "Cng \u2122"
+    CharacterDesc: "c\u1ED5 \u0111i\u1EC3n, t\xF4n tr\u1ECDng."
+    CharacterSprite: {fileID: -5064401156898091283, guid: 78c6f8f1668ce6f45ad124b758b50d29, type: 3}
+  - CharacterName: Sig Cng
+    CharacterDesc: sigma, gay, goon.
+    CharacterSprite: {fileID: -2131785505994478718, guid: 726b7e99568bdcb44b0cb4517de2efd5, type: 3}
+  - CharacterName: Cq
+    CharacterDesc: bro found a bug in my game
+    CharacterSprite: {fileID: -4367358208268341643, guid: 61c92b286d4101f41bd6d8b1ee0fe12a, type: 3}
+  - CharacterName: Dev
+    CharacterDesc: It is said that this skin would make the game become harder
+    CharacterSprite: {fileID: 1139019418450769134, guid: b8b8ca794d87c474fb9417c171d14164, type: 3}
+  - CharacterName: Tamnay
+    CharacterDesc: A broken dream. . .
+    CharacterSprite: {fileID: 6109838759544802475, guid: 4d39ba6a4bd225644bdb13e7b5169758, type: 3}
+  - CharacterName: The Eyes
+    CharacterDesc: C#
+    CharacterSprite: {fileID: 4932055171254875973, guid: 5f13c1c78e16f484c92dad387032ad5d, type: 3}

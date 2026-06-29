@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Logic
+  - IncreaseScore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 218498111
+    locked: 0
+  - name: cloud2
+    uniqueID: 2844255557
+    locked: 0
+  - name: cloud1
+    uniqueID: 2983771593
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: cloud3
+    uniqueID: 1185483403
+    locked: 0
+  - name: score
+    uniqueID: 3094683867
+    locked: 0
+  - name: death
+    uniqueID: 3075595275
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Layer 1
